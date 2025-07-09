@@ -1,5 +1,18 @@
 #stylish {
-    color:blue;
+    color:pink;
+    font-weight:bold;
+    font-style:oblique;
+
+  }
+
+#blue {
+  color:blue;
+}
+
+#red {
+  color:red;
+  font-size:20px;
+  text-decoration:underline;
 }
 
 #base {
@@ -14,7 +27,7 @@
 #background {
   width: 70vmin;
   height: 70vmin;
-  background: #e8e0ff;
+  background: #422C2C;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -30,7 +43,7 @@
     border-top-right-radius: 50%;
     border-bottom: 0;
     box-sizing: border-box;
-    background: #ffdcff
+    background: #E8E8E8
 }
 
 #feets {
@@ -44,7 +57,7 @@
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
     border-top: 0;
-    background: #ffdcff
+    background: #E8E8E8
 }
 #peepers {
     position: absolute;

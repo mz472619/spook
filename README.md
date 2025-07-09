@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html>
-<h1> <em>This is day three of computer science.</em> </h1>
+
+<h1 id="blue">Hello, world!</h1>
+
+<p id="red"><em>Hello, document!</em></p>
+
+<p> This is day three of computer science. </p>
+
+<p> You should visit 
+<a href="https://github.com/mz472619/spook">
+my repository!
 
 <head>
     <link rel="stylesheet" href="styles.css">
     </head>
     <body>
-        <p id="stylish">Hello!</p>
+        <p id="stylish">Say hello to spooky the ghost!</p>
+
 
 <div id="base">
   <div id="background">
