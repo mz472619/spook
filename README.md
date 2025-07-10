@@ -1,4 +1,5 @@
 <h1 id="blue">Hello, world!</h1>
+
 <!DOCTYPE html>
 <html>
 <p id="red"><em>Hello, document!</em></p>
